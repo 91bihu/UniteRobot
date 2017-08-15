@@ -13,4 +13,6 @@
   
   + 演示效果
   ![演示图](https://github.com/91bihu/UniteRobot/blob/master/ophelp.gif)
-  ![演示图](https://github.com/91bihu/UniteRobot/blob/master/node-help.gif.gif)
+  
+  
+  ![演示图](https://github.com/91bihu/UniteRobot/blob/master/node-help.gif)
