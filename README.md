@@ -11,4 +11,6 @@
     里面的配置都是环境所依赖的文件。在命令窗口中输入 npm install 回车后，即可安装。
   3.在安装完成后，输入 npm start 就可以启动项目，程序默认端口号：3000;localhost:3000；
   
-  
+  + 演示效果
+  ![演示图](https://github.com/91bihu/UniteRobot/blob/master/ophelp.gif)
+  ![演示图](https://github.com/91bihu/UniteRobot/blob/master/node-help.gif.gif)
