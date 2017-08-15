@@ -23,9 +23,9 @@ var jsonWrite = function(res, ret) {
 module.exports = {
     login: function(req, res, next) {
         /*
-        * agentId:合作做壁虎提供
+        * agentId:合作后壁虎提供
         * userName：自己平台登录提供
-        * secretKey:合作做壁虎提供
+        * secretKey:合作后壁虎提供
         * timestamp:时间戳
         * timeout:session过期时间
         * SecCode:校验码 MD5加密 转大写
