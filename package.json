@@ -1,0 +1,31 @@
+{
+    "name": "testejs",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "dependencies": {
+        "body-parser": "^1.15.2",
+        "cookie-parser": "~1.4.3",
+        "csurf": "^1.9.0",
+        "debug": "~2.2.0",
+        "ejs": "~2.5.2",
+        "express": "~4.14.0",
+        "grunt": "^1.0.1",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-uglify": "^2.0.0",
+        "grunt-css": "^0.5.4",
+        "morgan": "~1.7.0",
+        "mysql": "latest",
+        "serve-favicon": "~2.3.0",
+        "webpack": "^1.13.3"
+    },
+    "devDependencies": {
+        "crypto": "0.0.3",
+        "express-session": "^1.15.2",
+        "node-gyp": "^3.6.0",
+        "node-rest-client": "^3.1.0",
+        "rebuild": "^0.1.2"
+    }
+}

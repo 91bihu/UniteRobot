@@ -1,0 +1,11 @@
+var express = require('express');
+var bodyParser = require('body-parser');
+var login = require("./Login/login");
+var home = require("./Home/index");
+var app = express();
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+var router = express.Router();
+login.router(router);
+home.router(router);
+module.exports = router;
